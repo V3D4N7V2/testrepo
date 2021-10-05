@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name        Note & Close
+// @name        Note & Clossse
 // @namespace   Violentmonkey Scripts
 // @match       https://*.reddit.com/r/*/comments/*
 // @include     *://*
