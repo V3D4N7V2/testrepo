@@ -23,7 +23,7 @@
 // @version     1.0
 // @author      -
 // @description 6/16/2021, 6:19:34 PM
-// @run-at document-idle
+// @run-at document-body
 // ==/UserScript==
 if (window.location.origin == "http://192.168.0.64") {
 window.close();
